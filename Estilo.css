@@ -1,0 +1,19 @@
+.cesar{
+    position:relative;
+    top: -25px;
+    left: 1400px;      
+}   
+
+.tabela{
+    margin-left: 50px;
+}
+.pedro{
+    border-radius: 50%;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.links{
+    color:cornflowerblue;
+}
